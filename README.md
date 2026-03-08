@@ -18,3 +18,13 @@ Ready-to-use API templates for various use cases.
 ## License
 
 MIT
+
+---
+
+## 💰 Support & Get Full Version
+
+This is the free version. Get the full version with more features:
+
+[Buy on Gumroad - 6](https://haualand.gumroad.com/l/api-templates-pro)
+
+---

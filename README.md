@@ -21,10 +21,10 @@ MIT
 
 ---
 
-## 💰 Support & Get Full Version
+## 💰 Get Full Version
 
 This is the free version. Get the full version with more features:
 
-[Buy on Gumroad - 6](https://haualand.gumroad.com/l/api-templates-pro)
+[Buy on Gumroad](https://geir30.gumroad.com/l/API)
 
 ---

@@ -26,5 +26,3 @@ MIT
 This is the free version. Get the full version with more features:
 
 [Buy on Gumroad](https://geir30.gumroad.com/l/API)
-
----
